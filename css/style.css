@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Roboto&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/btn-purple.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: "Roboto", sans-serif;
+	font-size: 17px;
+	margin: 0px;
+	color: #A5A5A5
+;
+}
+
+h1, h2, h3 {
+	font-family: "Libre Baskerville", serif;
+	font-weight: bolder;
+}
+
+a {
+	text-decoration: none;
+}
+
+h2 {
+	color: #223363
+;
+}
+
